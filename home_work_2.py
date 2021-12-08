@@ -55,6 +55,10 @@ def what_is_length_of_laces():
     print(length_of_laces)
 
 
+    #for standart laces
+    # length_of_laces = 2 * l + a + (0.5 * (a * b) * (N - 1))
+
+
 # if __name__ == '__main__':
 #     greeting()
 #     show_next_previous_number()
