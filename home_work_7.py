@@ -6,10 +6,12 @@ def capitalize(data):
         result += i[0].upper() + i[1::] + ' '
     print(result)
 
+capitalize('i wanna taste you but your lips are venomous poison')
 
 
 def exponentiation(a,n):
     print(a ** n)
+
 
 
 
